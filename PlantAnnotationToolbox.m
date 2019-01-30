@@ -1,6 +1,6 @@
 % This toolbox is written to annotate various parts of plants to be used in
 % the concept of Deep Learning.
-% To run it, just press the run button and the window wil open for you.
+% To run it, just press the run button and the window will open for you.
 %
 %%  ** Please go to line 47 to change the default path to your desired path.
 %% EDITABLE section: If you need to change or add or delete plant parts,
